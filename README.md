@@ -1,2 +1,2 @@
-# federaed_learning
-federated incremental learning implementation
+# federated_learning
+Federated Incremental Learning Implementation
